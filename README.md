@@ -9,6 +9,4 @@
 
 This repository incorporates material as listed below or described in the code.
 
-1. Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks
-
-- [Sentence-BERT](https://huggingface.co/sentence-transformers/distiluse-base-multilingual-cased-v2)
+- [Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks](https://huggingface.co/sentence-transformers/distiluse-base-multilingual-cased-v2)
